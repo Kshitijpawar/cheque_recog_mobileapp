@@ -1,6 +1,6 @@
 # chequeapp
 
-A new Flutter project.
+Flutter frontend for cheque recognition mobile app.
 
 ## Getting Started
 
